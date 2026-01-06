@@ -1,0 +1,3 @@
+D:/AI_Project/file_stats-copilot-add-file-stats-report/file_stats-copilot-add-file-stats-report/out/build/x64-Debug/CMakeFiles/file_stats.dir
+D:/AI_Project/file_stats-copilot-add-file-stats-report/file_stats-copilot-add-file-stats-report/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/AI_Project/file_stats-copilot-add-file-stats-report/file_stats-copilot-add-file-stats-report/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

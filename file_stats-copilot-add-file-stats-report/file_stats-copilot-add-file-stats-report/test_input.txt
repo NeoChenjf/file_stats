@@ -1,0 +1,6 @@
+Hello World!
+This is a test file for the file_stats program.
+It contains multiple lines.
+And multiple words.
+
+Let's see how well it counts!
